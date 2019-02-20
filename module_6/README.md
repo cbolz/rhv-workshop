@@ -93,4 +93,4 @@ Time: 5 minutes
    
 1. Press the "Remove" button, confirm your action.  The host will be removed
 
-[Previous](../module_6/README.md) / [Home](../README.md) / Next
+[Previous](../module_5/README.md) / [Home](../README.md) / Next
