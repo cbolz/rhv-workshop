@@ -14,7 +14,7 @@ The goal of this workshop is to provide an introduction to many common operation
 
 * Module 1: [Familiarization and interface overview](module_1/README.md)
 * Module 2: [Virtual machines](module_2/README.md)
-* Module 3: [Users and permissions](module_2/README.md)
-* Module 4: [Storage](module_2/README.md)
-* Module 5: [Network](module_2/README.md)
-* Module 6: [Compute clusters](module_2/README.md)
+* Module 3: [Users and permissions](module_3/README.md)
+* Module 4: [Storage](module_4/README.md)
+* Module 5: [Network](module_5/README.md)
+* Module 6: [Compute clusters](module_6/README.md)
